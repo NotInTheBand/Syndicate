@@ -1,2 +1,2 @@
 # Syndicate
-Data Dictionaris
+Data Dictionary
